@@ -7,3 +7,8 @@ Inspired by [awesome repositories](https://github.com/sindresorhus/awesome)
 ## Retrospectives
 
 - [Retromat](https://plans-for-retrospectives.com/en/?id=1-65-25-38-60) - A page with different activities for retrospectives.
+
+## Agile Open MX 2017
+
+- Artesanía de software
+  - [S.O.L.I.D](https://es.slideshare.net/berczecke/qu-tan-solid-es-t-cdigo)

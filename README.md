@@ -10,5 +10,9 @@ Inspired by [awesome repositories](https://github.com/sindresorhus/awesome)
 
 ## Agile Open MX 2017
 
+- Implementar DevOps/Conocer más sobre DevOps
+  - [Material sobre CI de MakingDevs](https://github.com/makingdevs/CI_Workshop)
+- Arquitectura incremental por Luis Aldazabal
+  - [Libros de Simon Brown sobre arquitectura](https://leanpub.com/b/software-architecture)
 - Artesanía de software
   - [S.O.L.I.D](https://es.slideshare.net/berczecke/qu-tan-solid-es-t-cdigo)
